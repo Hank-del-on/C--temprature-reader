@@ -1,0 +1,14 @@
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\bin\Debug\net8.0\Temprature display.exe
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\bin\Debug\net8.0\Temprature display.deps.json
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\bin\Debug\net8.0\Temprature display.runtimeconfig.json
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\bin\Debug\net8.0\Temprature display.dll
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\bin\Debug\net8.0\Temprature display.pdb
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\obj\Debug\net8.0\Temprature display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\obj\Debug\net8.0\Temprature display.AssemblyInfoInputs.cache
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\obj\Debug\net8.0\Temprature display.AssemblyInfo.cs
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\obj\Debug\net8.0\Temprature display.csproj.CoreCompileInputs.cache
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\obj\Debug\net8.0\Temprature display.dll
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\obj\Debug\net8.0\refint\Temprature display.dll
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\obj\Debug\net8.0\Temprature display.pdb
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\obj\Debug\net8.0\Temprature display.genruntimeconfig.cache
+C:\Users\kodeh\Documents\C #\C# temrature reader\Temprature display\obj\Debug\net8.0\ref\Temprature display.dll
